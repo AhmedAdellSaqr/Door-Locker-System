@@ -1,9 +1,4 @@
-/*
- * main.c
- *
- * Created: 8/13/2022 11:16:21 PM
- *  Author: Amr Samy
- */ 
+
 #define F_CPU	8000000UL
 #include <util/delay.h>
 
